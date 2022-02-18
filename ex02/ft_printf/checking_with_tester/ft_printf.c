@@ -1,6 +1,4 @@
-#include <stdarg.h>
-#include <stdlib.h>
-#include <unistd.h>
+#include "ft_printf.h"
 
 static size_t	ft_strlen(char const *str)
 {
